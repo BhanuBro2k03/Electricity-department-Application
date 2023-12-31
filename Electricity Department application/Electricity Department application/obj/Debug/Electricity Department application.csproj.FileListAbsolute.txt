@@ -1,0 +1,11 @@
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\bin\Debug\Electricity Department application.exe.config
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\bin\Debug\Electricity Department application.exe
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\bin\Debug\Electricity Department application.pdb
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity Department application.csproj.AssemblyReference.cache
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity_Department_application.displayWindow.resources
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity_Department_application.Form1.resources
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity_Department_application.Properties.Resources.resources
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity Department application.csproj.GenerateResource.cache
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity Department application.csproj.CoreCompileInputs.cache
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity Department application.exe
+C:\Users\BHANUbro\Desktop\New folder\Electricity Department application\Electricity Department application\obj\Debug\Electricity Department application.pdb
